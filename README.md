@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/duttasuvo90" target="blank"><img src="https://img.shields.io/twitter/follow/duttasuvo90?logo=twitter&style=for-the-badge" alt="duttasuvo90" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently exploring **Large Language Models**.
 
-- 👨‍💻 All of my projects are available at [https://subhayudutta.vercel.app/](https://subhayudutta.vercel.app/)
+- 👨‍💻 All of my projects are available at my github account.
 
 - 💬 Ask me about **ML, DL and NLP**
 
